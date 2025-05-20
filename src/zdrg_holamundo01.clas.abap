@@ -12,7 +12,7 @@ ENDCLASS.
 
 
 
-CLASS zdrg_holamundo01 IMPLEMENTATION.
+CLASS ZDRG_HOLAMUNDO01 IMPLEMENTATION.
 
 
   METHOD if_oo_adt_classrun~main.
